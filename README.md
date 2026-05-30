@@ -1,6 +1,6 @@
 # Bitext Dataset Agent — `agentUserProfile.py`
 
-A conversational AI agent built with **LangGraph** and **LangChain** that lets you explore the [Bitext customer-support dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset) through natural language. The agent remembers your conversation across restarts and builds a persistent profile of you over time.
+This is a conversational AI agent built with **LangGraph** and **LangChain** that explores the [Bitext customer-support dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset) The agent presented in the code is answer to assignement 1, 2 and 2b. The agent remembers the conversation across restarts and builds a persistent profile of the user over time.
 
 ---
 
